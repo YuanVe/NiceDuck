@@ -4,7 +4,7 @@
 
 ## NiceDuck介绍
 
-NiceDuck机场，全隧道中转线路，国内多入口，高SLA保证，提供专属Emby服务。
+NiceDuck机场梯子，全隧道中转线路，国内多入口，高SLA保证，提供专属Emby服务。
 
 全节点流媒体支持，包括但不限于ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等
 
@@ -13,6 +13,7 @@ Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台
 🤖提供ChatGPT，Calude共享服务，强大AI助手随时待命，提升工作效率。
 
 ## NiceDuck优惠码
+✨ 新用户首次购买8折优惠码：NiceDuck
 
 ⭐NiceDuck 2025端午节618优惠活动⭐
 
